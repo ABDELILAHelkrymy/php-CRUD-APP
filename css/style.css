@@ -1,0 +1,16 @@
+.myNav {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.myForm {
+    width: 50vw;
+    min-width: 300px;
+}
